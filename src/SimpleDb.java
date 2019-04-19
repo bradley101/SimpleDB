@@ -4,6 +4,6 @@ public class SimpleDb {
         this(name, "");
     }
     public SimpleDb(String name, String path) {
-
+        
     }
 }
